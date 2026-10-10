@@ -32,5 +32,6 @@ ADTBS += \
 	$(LOCAL_DIR)/sdm632-qrd-sku4.dtb \
 
 QCDTBS += \
+	$(LOCAL_DIR)/msm8953-mtp.dtb \
 	$(LOCAL_DIR)/msm8953-motorola-potter.dtb \
 	$(LOCAL_DIR)/sdm450-samsung-r04.dtb \
